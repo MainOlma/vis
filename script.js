@@ -2,7 +2,7 @@ var width = 600,
     height = 500;
 var svg = d3.select("body").append("svg").attr("width",width).attr("height",height);
 var zoomedArea=svg.append("g").attr("class","zoomable");
-var g = zoomedArea.append("g");
+var g = svg.append("g");
 
 var x = d3.scaleLinear()
     .domain([-70, 10])
@@ -61,7 +61,6 @@ d3.tsv("Primat - from PDF.tsv").then(function(d) { //read data from tsv
 
 function zoomed() {
     var t = d3.event.transform, xt = t.rescaleX(x);
-    //g.select(".axis--x").call(xAxis.scale(xt));
-
+    g.select(".axis--x").call(xAxis.scale(xt));
     zoomedArea.attr("transform",  d3.event.transform );
 }
