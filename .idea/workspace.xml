@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/nest_research.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nest_research.html" beforeDir="false" afterPath="$PROJECT_DIR$/nest_research.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +43,8 @@
       <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nest_research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="169" column="103" selection-start-line="169" selection-start-column="103" selection-end-line="169" selection-end-column="103" />
+            <state relative-caret-position="449">
+              <caret line="171" column="61" selection-start-line="171" selection-start-column="61" selection-end-line="171" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -159,12 +157,12 @@
       <workItem from="1531147704853" duration="6477000" />
       <workItem from="1531239745530" duration="19079000" />
       <workItem from="1531418347937" duration="4560000" />
-      <workItem from="1531682070417" duration="6566000" />
+      <workItem from="1531682070417" duration="8095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126770000" />
+    <option name="totallyTimeSpent" value="128299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -491,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nest_research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="169" column="103" selection-start-line="169" selection-start-column="103" selection-end-line="169" selection-end-column="103" />
+        <state relative-caret-position="449">
+          <caret line="171" column="61" selection-start-line="171" selection-start-column="61" selection-end-line="171" selection-end-column="61" />
         </state>
       </provider>
     </entry>

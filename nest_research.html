@@ -135,8 +135,8 @@
         var myleaves=[];
 
         function getLeafNodes(leafNodes, obj){
-            if(obj.children){
-                obj.children.forEach(function(child){getLeafNodes(leafNodes,child)});
+            if(obj.values){
+                obj.values.forEach(function(child){getLeafNodes(leafNodes,child)});
             } else{
                 leafNodes.push(obj);
             }
@@ -145,9 +145,9 @@
         }
 
         function findIds(json,name){
-            if(json.children){
-                console.log('WE ARE IN '+json.name)
-                if(json.name==name)  {
+            if(json.values){
+                console.log('WE ARE IN '+json.key)
+                if(json.key==name)  {
                     console.log("inside")
                     var leafNodes = [];
                     getLeafNodes(leafNodes,json);
@@ -155,19 +155,21 @@
 
 
                 } else {
-                    json.children.forEach(function(child){
+                    json.values.forEach(function(child){
                         findIds(child,name);
                     });
                 }
             }
-            else console.log("other leaf "+JSON.stringify(json,null,3));
-            console.log("leafNodes end = "+leafNodes); //Logs leaf node ids to the console
+            else console.log("other leaf "+JSON.stringify(json,null,1));
+            //console.log("leafNodes end = "+leafNodes); //Logs leaf node ids to the console
 
         }
 
-        findIds(jsonka,"Eve");
+        const taxon="подсем. Tupaiinae";
 
-        d3.select("#some").text("leaf nodes = "+myleaves.map(function(leafNode){ return leafNode.id; }));
+        findIds(locations[0],taxon);
+
+        d3.select("#some").text("leaf nodes  of "+taxon+" = "+myleaves.map(function(leafNode){ return leafNode.id; }));
     });
 </script>
 </body>
