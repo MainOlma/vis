@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Primat .tsv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nest_research.html" beforeDir="false" afterPath="$PROJECT_DIR$/nest_research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,62 +12,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nest_research.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="263" column="19" selection-start-line="263" selection-start-column="19" selection-end-line="263" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Primat - from PDF.tsv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Primat - from PDF.tsv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.tsv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.tsv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="60" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="69">
+                  <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nest_research.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="412">
+                  <caret line="162" column="55" lean-forward="true" selection-start-line="162" selection-start-column="55" selection-end-line="162" selection-end-column="55" />
+                  <folding>
+                    <element signature="e#6828#7026#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Primat.tsv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Primat.tsv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4811">
+                  <caret line="283" column="305" selection-start-line="283" selection-start-column="305" selection-end-line="283" selection-end-column="305" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Primat - from PDF.tsv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Primat - from PDF.tsv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="101" selection-start-column="92" selection-end-column="101" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test.tsv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test.tsv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nest_research.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="453" column="22" lean-forward="true" selection-start-line="453" selection-start-column="22" selection-end-line="453" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,8 +129,8 @@
         <option value="$PROJECT_DIR$/nest_test.html" />
         <option value="$PROJECT_DIR$/test.tsv" />
         <option value="$PROJECT_DIR$/Primat .tsv" />
-        <option value="$PROJECT_DIR$/Primat.tsv" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/Primat.tsv" />
         <option value="$PROJECT_DIR$/nest_research.html" />
       </list>
     </option>
@@ -189,21 +216,21 @@
       <workItem from="1531239745530" duration="19079000" />
       <workItem from="1531418347937" duration="4560000" />
       <workItem from="1531682070417" duration="8095000" />
-      <workItem from="1531746035248" duration="38003000" />
+      <workItem from="1531746035248" duration="48361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166302000" />
+    <option name="totallyTimeSpent" value="176660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18947369" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.18947369" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3291592" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
@@ -512,20 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Primat - from PDF.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Primat.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -540,10 +553,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Primat - from PDF.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="101" selection-start-column="92" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Primat.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4811">
+          <caret line="283" column="305" selection-start-line="283" selection-start-column="305" selection-end-line="283" selection-end-column="305" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nest_research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="263" column="19" selection-start-line="263" selection-start-column="19" selection-end-line="263" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="453" column="22" lean-forward="true" selection-start-line="453" selection-start-column="22" selection-end-line="453" selection-end-column="22" />
         </state>
       </provider>
     </entry>
