@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Primat .tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Primat .tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nest_research.html" beforeDir="false" afterPath="$PROJECT_DIR$/nest_research.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,20 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nest_research.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nest_research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="170" column="30" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
+            <state relative-caret-position="242">
+              <caret line="130" column="43" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Primat .tsv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Primat .tsv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Primat .tsv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6834">
-              <caret line="402" column="77" selection-start-line="402" selection-start-column="77" selection-end-line="402" selection-end-column="77" />
+            <state relative-caret-position="323">
+              <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -104,8 +105,8 @@
         <option value="$PROJECT_DIR$/test_data.js" />
         <option value="$PROJECT_DIR$/nest_test.html" />
         <option value="$PROJECT_DIR$/test.tsv" />
-        <option value="$PROJECT_DIR$/Primat .tsv" />
         <option value="$PROJECT_DIR$/nest_research.html" />
+        <option value="$PROJECT_DIR$/Primat .tsv" />
       </list>
     </option>
   </component>
@@ -190,12 +191,12 @@
       <workItem from="1531239745530" duration="19079000" />
       <workItem from="1531418347937" duration="4560000" />
       <workItem from="1531682070417" duration="8095000" />
-      <workItem from="1531746035248" duration="23813000" />
+      <workItem from="1531746035248" duration="27132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152112000" />
+    <option name="totallyTimeSpent" value="155431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -513,17 +514,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Primat .tsv">
+    <entry file="file://$PROJECT_DIR$/nest_research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6834">
-          <caret line="402" column="77" selection-start-line="402" selection-start-column="77" selection-end-line="402" selection-end-column="77" />
+        <state relative-caret-position="242">
+          <caret line="130" column="43" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nest_research.html">
+    <entry file="file://$PROJECT_DIR$/Primat .tsv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="170" column="30" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
         </state>
       </provider>
     </entry>
