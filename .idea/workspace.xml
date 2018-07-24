@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="" />
+    <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +28,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+                <state relative-caret-position="256">
+                  <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -55,11 +58,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Primat.tsv" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Primat.tsv" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Primat.tsv">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="4811">
-                  <caret line="283" column="336" selection-start-line="283" selection-start-column="336" selection-end-line="283" selection-end-column="336" />
+                  <caret line="283" column="325" selection-start-line="283" selection-start-column="325" selection-end-line="283" selection-end-column="325" />
                 </state>
               </provider>
             </entry>
@@ -89,8 +92,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="398" column="53" lean-forward="true" selection-start-line="398" selection-start-column="53" selection-end-line="398" selection-end-column="53" />
+                <state relative-caret-position="527">
+                  <caret line="448" column="147" selection-start-line="448" selection-start-column="147" selection-end-line="448" selection-end-column="147" />
                   <folding>
                     <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -134,9 +137,9 @@
         <option value="$PROJECT_DIR$/test.tsv" />
         <option value="$PROJECT_DIR$/Primat .tsv" />
         <option value="$PROJECT_DIR$/nest_research.html" />
+        <option value="$PROJECT_DIR$/Primat.tsv" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Primat.tsv" />
       </list>
     </option>
   </component>
@@ -210,12 +213,12 @@
       <workItem from="1531682070417" duration="8095000" />
       <workItem from="1531746035248" duration="48549000" />
       <workItem from="1531985233139" duration="34724000" />
-      <workItem from="1532414891042" duration="3198000" />
+      <workItem from="1532414891042" duration="10946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214770000" />
+    <option name="totallyTimeSpent" value="222518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -544,27 +547,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Primat.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4811">
+          <caret line="283" column="325" selection-start-line="283" selection-start-column="325" selection-end-line="283" selection-end-column="325" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        <state relative-caret-position="256">
+          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="145" column="63" selection-start-line="145" selection-start-column="63" selection-end-line="145" selection-end-column="63" />
+        <state relative-caret-position="527">
+          <caret line="448" column="147" selection-start-line="448" selection-start-column="147" selection-end-line="448" selection-end-column="147" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Primat.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4811">
-          <caret line="283" column="336" selection-start-line="283" selection-start-column="336" selection-end-line="283" selection-end-column="336" />
         </state>
       </provider>
     </entry>
