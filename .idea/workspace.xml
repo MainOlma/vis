@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Primat.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Primat.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="477" column="45" selection-start-line="477" selection-start-column="45" selection-end-line="477" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -224,12 +223,12 @@
       <workItem from="1533583308815" duration="8364000" />
       <workItem from="1534169095820" duration="26164000" />
       <workItem from="1534357030307" duration="4666000" />
-      <workItem from="1534365597671" duration="14104000" />
+      <workItem from="1534365597671" duration="16034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322533000" />
+    <option name="totallyTimeSpent" value="324463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -574,8 +573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="477" column="45" selection-start-line="477" selection-start-column="45" selection-end-line="477" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
           </folding>
