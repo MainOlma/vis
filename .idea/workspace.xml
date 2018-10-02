@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58b427d-cc4b-432c-a545-08a84a6522d2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/primat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/adapidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/adapidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/carpolestidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/carpolestidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/chimpanzee.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/chimpanzee.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/chiromyiformes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/chiromyiformes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/cynocephalidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/cynocephalidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/homo_sapiens.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/homo_sapiens.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/lemuridae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/lemuridae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/lorisiformes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/lorisiformes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/omomyidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/omomyidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/pitheciidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/pitheciidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/tarsiidae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/tarsiidae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/animals/tupaiinae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/animals/tupaiinae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primat.js" beforeDir="false" afterPath="$PROJECT_DIR$/primat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +41,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+            <state relative-caret-position="412">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
             </state>
           </provider>
         </entry>
@@ -39,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="324">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -51,8 +62,8 @@
       <file leaf-file-name="primat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/primat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="1007" column="13" lean-forward="true" selection-start-line="1007" selection-start-column="13" selection-end-line="1007" selection-end-column="13" />
+            <state relative-caret-position="280">
+              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -89,6 +100,7 @@
       <find>taxons</find>
       <find>суперна</find>
       <find>clone</find>
+      <find>our</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -114,8 +126,8 @@
         <option value="$PROJECT_DIR$/Primat.tsv" />
         <option value="$PROJECT_DIR$/Primat - Layers.tsv" />
         <option value="$PROJECT_DIR$/roundStep.js" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/primat.js" />
       </list>
     </option>
@@ -217,12 +229,12 @@
       <workItem from="1534669482853" duration="74590000" />
       <workItem from="1535449377488" duration="862000" />
       <workItem from="1535648684694" duration="39642000" />
-      <workItem from="1538475654276" duration="3509000" />
+      <workItem from="1538475654276" duration="8750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="456714000" />
+    <option name="totallyTimeSpent" value="461955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -392,13 +404,6 @@
     <entry file="file://$PROJECT_DIR$/test_data.js" />
     <entry file="file://$PROJECT_DIR$/Primat.tsv" />
     <entry file="file://$PROJECT_DIR$/roundStep.js" />
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Primat - Layers.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -408,18 +413,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        <state relative-caret-position="324">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/primat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="1007" column="13" lean-forward="true" selection-start-line="1007" selection-start-column="13" selection-end-line="1007" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
         </state>
       </provider>
     </entry>
